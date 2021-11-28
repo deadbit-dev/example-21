@@ -9,4 +9,4 @@ def get_dmitriy():
     return 'dmitriy'  # Переделка со своей ветки!
 
 def get_bogdan():
-    return "pavel"
+    return 'bogdan'
