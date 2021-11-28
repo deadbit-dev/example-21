@@ -7,3 +7,6 @@ def get_pavel():
 def get_dmitriy():
     """Сделать все по pep8."""
     return 'dmitriy'  # Переделка со своей ветки!
+
+def get_bogdan():
+    return 'bogdan'
