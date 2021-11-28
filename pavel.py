@@ -3,4 +3,4 @@ def pavel ():
 
 def dmitriy():
     """Сделать все по pep8."""
-    return 'dmitriy'
+    return 'dmitriy'  # Переделка со своей ветки!
